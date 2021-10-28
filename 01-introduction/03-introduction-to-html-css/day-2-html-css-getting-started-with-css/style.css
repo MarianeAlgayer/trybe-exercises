@@ -1,0 +1,42 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-size: 3em;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.background-style {
+    background-color: peachpuff;
+}
+
+ul {
+    background-color: seagreen;
+    
+}
+
+li {
+    font-style: italic;
+    line-height: 48px;
+}
+
+#yellow {
+    background-color: rgb(255, 201, 102);
+}
+
+#red {
+    background-color: tomato;
+}
+
+#brown {
+    background-color: sienna;
+}
