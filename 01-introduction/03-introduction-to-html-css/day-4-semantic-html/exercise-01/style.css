@@ -2,12 +2,19 @@ h1 {
     text-align: center;
 }
 
+section {
+    text-align: center;
+}
+
 .first {
     background-color: rgb(235, 200, 84);
     font-size: 20px;
     height: 50px;
     text-align: center;
     width: 200px;
+
+    display: block;
+    margin: auto;
 }
 
 .second {
@@ -16,6 +23,8 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+
+    display: inline-block;
 }
 
 .third {
@@ -24,4 +33,10 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+
+    display: inline-block;
+}
+
+.prizes ul li {
+    display: inline;
 }
