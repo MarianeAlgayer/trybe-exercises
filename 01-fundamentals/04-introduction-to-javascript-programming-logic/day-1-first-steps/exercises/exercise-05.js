@@ -9,7 +9,7 @@ if(a > 0 && b > 0 && c > 0) {
         console.log(false);
     }
 } else {
-    console.log('Ângulo inválido.')
+    console.log('Ângulo inválido.');
 }
 
 
