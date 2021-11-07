@@ -6,15 +6,15 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 ## Fundamentals of Web Development :hourglass_flowing_sand:
 
-##### 1: Introduction - Unix & Shell
+##### 1: Unix & Bash
 
-- [x] 1.3: Unix & Shell- Part 1
-- [x] 1.4: Unix & Shell- Part 2
+- [x] 1.3: Unix & Bash- Part 1
+- [x] 1.4: Unix & Bash- Part 2
 
-##### 2: Git & GitHub
+##### 2: Git, GitHub and Internet
 
-- [x] 2.1: What is it and what is it for?
-- [x] 2.2: Learning commands
+- [x] 2.1: Git & GitHub - What is it and what is it for?
+- [x] 2.2: Git & GitHub - Learning commands
 - [x] 2.3: Internet - Understanding how it works
 
 ##### 3: [Introduction to HTML and CSS](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/03-introduction-to-html-css)
@@ -28,7 +28,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 ##### 4: [Introduction to JavaScript and Programming Logic](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/04-introduction-to-javascript-programming-logic)
 
 - [x] 4.1: JavaScript - First steps
-- [ ] 4.2: JavaScript - Array and loop For
+- [x] 4.2: JavaScript - Array and loop For
 - [ ] 4.3: Programming Logic and Algorithms
 - [ ] 4.4: Objects and functions
 - [ ] 4.5: Project - Playground Functions
