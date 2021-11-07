@@ -2,19 +2,33 @@
 
 This repository is dedicated to all projects developed by [Mariane Algayer](https://www.linkedin.com/in/mariane-albuquerque-algayer) while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
-Trybe is a school of the future, focused on the most sought after digital professions in the market, starting with software development. There are more than 1500 hours of training that covers fundamentals of web development, front-end, back-end, computer science, agile methodologies and soft skills.
+> Trybe is a school of the future, focused on the most sought after digital professions in the market, starting with software development. There are more than 1500 hours of training that covers fundamentals of web development, front-end, back-end, computer science, agile methodologies and soft skills.
 
-## Fundamentals of Web Development
+## Fundamentals of Web Development :hourglass_flowing_sand:
 
 ##### 1: Introduction - Unix & Shell
 
-- [ ] 1-3: Unix & Shell- Part 1
-- [ ] 1-4: Unix & Shell- Part 2
+- [x] 1.3: Unix & Shell- Part 1
+- [x] 1.4: Unix & Shell- Part 2
 
 ##### 2: Git & GitHub
 
-- [ ] 2-1: What is it and what is it for?
-- [ ] 2-2: Learning commands
-- [ ] 2-3: Internet - Understanding how it works
+- [x] 2.1: What is it and what is it for?
+- [x] 2.2: Learning commands
+- [x] 2.3: Internet - Understanding how it works
 
-🚧 In progress 🚧
+##### 3: [Introduction to HTML and CSS](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/03-introduction-to-html-css)
+
+- [x] 3.1: HTML & CSS - Page structures
+- [x] 3.2: HTML & CSS - Getting started with CSS
+- [x] 3.3: HTML & CSS - Selectors and box model
+- [x] 3.4: Semantic HTML
+- [x] 3.5: Project - Lessons Learned
+
+##### 4: [Introduction to JavaScript and Programming Logic](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/04-introduction-to-javascript-programming-logic)
+
+- [x] 4.1: JavaScript - First steps
+- [ ] 4.2: JavaScript - Array and loop For
+- [ ] 4.3: Programming Logic and Algorithms
+- [ ] 4.4: Objects and functions
+- [ ] 4.5: Project - Playground Functions
