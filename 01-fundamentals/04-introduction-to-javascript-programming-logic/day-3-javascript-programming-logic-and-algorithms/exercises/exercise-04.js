@@ -2,10 +2,8 @@ let n = 5;
 
 if(n > 1) {
     for(index = 1; index <= n; index += 1){
-        if(index % 2 !== 0 && index < n) {
+        if(index % 2 !== 0) {
             console.log(`${' '.repeat((n - index) / 2)}${'*'.repeat(index)}`);
-        } else if(index % 2 !== 0 && index === n) {
-            console.log('*'.repeat(index));
         }
     }
 }
