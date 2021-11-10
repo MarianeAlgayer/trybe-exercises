@@ -1,8 +1,8 @@
 let n = 5;
 
 if(n > 1) {
-    for(index = n - 1; index >= 0; index -= 1) {
-        console.log('*'.repeat(n - index));
+    for(index = 1; index <= n; index += 1) {
+        console.log('*'.repeat(index));
     }
 }
 
