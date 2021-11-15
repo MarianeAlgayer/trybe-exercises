@@ -29,6 +29,6 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 - [x] 4.1: JavaScript - First steps
 - [x] 4.2: JavaScript - Array and loop For
-- [ ] 4.3: Programming Logic and Algorithms
-- [ ] 4.4: Objects and functions
-- [ ] 4.5: Project - Playground Functions
+- [x] 4.3: Programming Logic and Algorithms
+- [x] 4.4: Objects and functions
+- [x] 4.5: Project - Playground Functions
