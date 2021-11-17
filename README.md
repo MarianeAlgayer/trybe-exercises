@@ -32,3 +32,11 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 4.3: Programming Logic and Algorithms
 - [x] 4.4: Objects and functions
 - [x] 4.5: Project - Playground Functions
+
+##### 5: [JavaScript: DOM, Events and Web Storage](https://github.com/MarianeAlgayer/trybe-exercises/tree/exercises/5.1/01-fundamentals/05-javascript-dom-events-and-web-storage)
+
+- [x] 5.1: JavaScript - DOM and selectors
+- [] 5.2: JavaScript - Working with elements
+- [] 5.3: JavaScript - Events
+- [] 5.4: JavaScript - Web Storage
+- [] 5.5: Project - Pixel Art
