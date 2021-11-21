@@ -12,7 +12,8 @@ function createDaysOfTheWeek() {
 };
   
 createDaysOfTheWeek();
-  
+
+//Exercise 1
 function createDaysOfTheMonth() {
     const dezDays = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
     const dezDaysList = document.querySelector('#days');
@@ -37,6 +38,7 @@ function createDaysOfTheMonth() {
 
 createDaysOfTheMonth();
 
+//Exercise 2
 function createHolidayButton(buttonName) {
     const buttonsContainer = document.querySelector('.buttons-container');
     const holidayButton = document.createElement('button');
@@ -47,6 +49,7 @@ function createHolidayButton(buttonName) {
 
 createHolidayButton('Feriados');
 
+//Exercise 3
 function changeHolidaysColour() {
     const holidayButton = document.querySelector('#btn-holiday');
     const holidays = document.querySelectorAll('.holiday');
@@ -66,6 +69,7 @@ function changeHolidaysColour() {
 
 changeHolidaysColour();
 
+//Exercise 4
 function createFridayButton(buttonName) {
     const buttonsContainer = document.querySelector('.buttons-container');
     const fridayButton = document.createElement('button');
@@ -76,6 +80,7 @@ function createFridayButton(buttonName) {
 
 createFridayButton('Sexta-feira');
 
+//Exercise 5
 function changeFridaysText(array) {
     const fridayButton = document.querySelector('#btn-friday');
     const fridays = document.querySelectorAll('.friday');
@@ -95,3 +100,22 @@ function changeFridaysText(array) {
 let fridaysArr = [4, 11, 18, 25];
 changeFridaysText(fridaysArr);
 
+//Exercise 6
+function zoomIn() {
+    const days = document.querySelector('#days');
+    days.addEventListener('mouseover', function (event) {
+        event.target.style.fontSize = '25px';
+        event.target.style.fontWeight = '700';
+    });
+}
+
+function zoomOut() {
+    const days = document.querySelector('#days');
+    days.addEventListener('mouseout', function (event) {
+        event.target.style.fontSize = '20px';
+        event.target.style.fontWeight = '400';
+    })
+}
+
+zoomIn();
+zoomOut();
