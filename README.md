@@ -36,7 +36,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 ##### 5: [JavaScript: DOM, Events and Web Storage](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/05-javascript-dom-events-and-web-storage)
 
 - [x] 5.1: JavaScript - DOM and selectors
-- [ ] 5.2: JavaScript - Working with elements
-- [ ] 5.3: JavaScript - Events
+- [x] 5.2: JavaScript - Working with elements
+- [x] 5.3: JavaScript - Events
 - [ ] 5.4: JavaScript - Web Storage
 - [ ] 5.5: Project - Pixel Art
