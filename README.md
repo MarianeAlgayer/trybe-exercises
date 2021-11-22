@@ -38,5 +38,5 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 5.1: JavaScript - DOM and selectors
 - [x] 5.2: JavaScript - Working with elements
 - [x] 5.3: JavaScript - Events
-- [ ] 5.4: JavaScript - Web Storage
+- [x] 5.4: JavaScript - Web Storage
 - [ ] 5.5: Project - Pixel Art
