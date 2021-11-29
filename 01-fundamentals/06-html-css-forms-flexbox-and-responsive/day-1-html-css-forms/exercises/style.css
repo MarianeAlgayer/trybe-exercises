@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 48px;
+  background-color: lightgray;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+#cvForm fieldset {
+  padding: 48px;
+  margin: 32px 0;
+  background-color: white;
+}
+
+#cvForm .formField {
+  margin: 24px 0;
+}
+
+#cvForm .formField input[type="text"],
+#cvForm .formField input[type="email"],
+#cvForm .formField select {
+  height: 32px;
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+}
+
+#cvForm .formField textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+}
+
+#cvForm #buttons {
+  text-align: center;
+}
+
+#cvForm #buttons button {
+  margin: 0 12px;
+  padding: 12px;
+  width: 180px;
+}
