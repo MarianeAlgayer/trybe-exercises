@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro Currículo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>Cadastro Currículo</h1>
+    </header>
+
+    <form action="" method="get" id="cvForm">
+      <fieldset id="personalInfo">
+        <h2>Informações Pessoais</h2>
+
+        <div class="formField">
+          <label for="fullName">Nome completo:</label>
+          <input 
+            type="text" 
+            name="full-name" 
+            id="fullName" 
+            maxlength="40" 
+            placeholder="Digite seu nome completo" 
+            required
+          >
+        </div>
+        
+        <div class="formField">
+          <label for="email">E-mail:</label>
+          <input 
+            type="email" 
+            name="email" 
+            id="email"
+            maxlength="50"
+            placeholder="Digite seu e-mail"
+            required
+          >
+        </div>
+        
+        <div class="formField">
+          <label for="cpf">CPF:</label>
+          <input 
+            type="text" 
+            name="cpf" 
+            id="cpf"
+            maxlength="11"
+            placeholder="Digite seu CPF"
+            required
+          > 
+        </div>
+
+        <div class="formField">
+          <label for="address">Endereço:</label>
+          <input 
+            type="text" 
+            name="address" 
+            id="address"
+            maxlength="200"
+            placeholder="Digite seu endereço"
+            required
+          > 
+        </div>
+  
+        <div class="formField">
+          <label for="city">Cidade:</label>
+          <input 
+            type="text" 
+            name="city" 
+            id="city"
+            maxlength="28"
+            placeholder="Digite o nome da sua cidade"
+            required
+          >
+        </div>
+  
+        <div class="formField">
+          <label for="state">Estado:</label>
+          <select name="state" id="state" required></select>
+        </div>
+  
+        <div class="formField">
+          <label for="home-type">Tipo de imóvel:</label>
+    
+          <input type="radio" name="home-type" id="house" value="house" required>
+          <span>Casa</span>
+    
+          <input type="radio" name="home-type" id="apartment" value="apartment" required>
+          <span>Apartamento</span>        
+        </div>
+      </fieldset>
+
+      <fieldset id="lastJobInfo">
+        <h2>Informações Último Trabalho</h2>
+
+        <div class="formField">
+          <label for="abstract">Resumo do currículo:</label>
+          <textarea 
+            name="abstract" 
+            id="abstract" 
+            cols="30" 
+            rows="10"
+            maxlength="1000"
+            placeholder="Digite um resumo do seu currículo"
+            required></textarea>
+        </div>
+
+        <div class="formField">
+          <label for="role">Cargo:</label>
+          <input 
+            type="text" 
+            name="role" 
+            id="role"
+            maxlength="40"
+            placeholder="Digite qual era o seu cargo"
+            required
+          >
+        </div>
+
+        <div class="formField">
+          <label for="roleInfo">Descrição do cargo:</label>
+          <input 
+            type="text" 
+            name="role-info" 
+            id="roleInfo"
+            maxlength="500"
+            placeholder="Digite uma descrição do seu cargo anterior"
+            required
+          >
+        </div>
+
+        <div class="formField">
+          <label for="startDate">Data de início:</label>
+          <input type="date" name="start-date" id="startDate" required>
+        </div>
+      </fieldset>
+
+      <div id="buttons">
+        <button type="button" id="clearButton">Limpar</button>
+        <button type="submit" id="submitButton">Enviar</button>
+      </div>
+    </form>
+    
+    <script src="/exercises/script.js"></script>
+  </body>
+
+</html>
