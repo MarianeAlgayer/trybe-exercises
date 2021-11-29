@@ -39,4 +39,14 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 5.2: JavaScript - Working with elements
 - [x] 5.3: JavaScript - Events
 - [x] 5.4: JavaScript - Web Storage
-- [ ] 5.5: Project - Pixel Art
+- [x] 5.5: Project - Pixel Art
+- [x] 5.6: Project - To Do List
+
+##### 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/06-html-css-forms-flexbox-and-responsive)
+
+- [x] 6.1: HTML and CSS - Forms
+- [x] 6.2: JavaScript Libraries and CSS Frameworks
+- [x] 6.3: CSS Flexbox - Part I
+- [ ] 6.4: CSS Flexbox - Part II
+- [ ] 6.5: Responsive CSS - Mobile First
+- [ ] 6.6: Project - Trybewarts
