@@ -47,6 +47,6 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 6.1: HTML and CSS - Forms
 - [x] 6.2: JavaScript Libraries and CSS Frameworks
 - [x] 6.3: CSS Flexbox - Part I
-- [ ] 6.4: CSS Flexbox - Part II
+- [x] 6.4: CSS Flexbox - Part II
 - [ ] 6.5: Responsive CSS - Mobile First
 - [ ] 6.6: Project - Trybewarts
