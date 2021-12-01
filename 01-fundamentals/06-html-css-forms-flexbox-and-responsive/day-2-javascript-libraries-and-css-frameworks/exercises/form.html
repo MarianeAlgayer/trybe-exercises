@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro Currículo</title>
+    <link rel="stylesheet" href="/exercises/bootstrap-5.1.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>Cadastro Currículo</h1>
+    </header>
+
+    <form action="" method="get" id="cvForm">
+      <fieldset id="personalInfo">
+        <h2>Informações Pessoais</h2>
+
+        <div class="mb-3">
+          <label for="fullName" class="form-label">Nome completo:</label>
+          <input 
+            type="text" 
+            name="full-name" 
+            id="fullName"
+            class="form-control"
+            maxlength="40" 
+            placeholder="Digite seu nome completo" 
+            required
+          >
+        </div>
+        
+        <div class="mb-3">
+          <label for="email" class="form-label">E-mail:</label>
+          <input 
+            type="email" 
+            name="email" 
+            id="email"
+            class="form-control"
+            maxlength="50"
+            placeholder="Digite seu e-mail"
+            required
+          >
+        </div>
+        
+        <div class="mb-3">
+          <label for="cpf" class="form-label">CPF:</label>
+          <input 
+            type="text" 
+            name="cpf" 
+            id="cpf"
+            class="form-control"
+            maxlength="11"
+            placeholder="Digite seu CPF"
+            required
+          > 
+        </div>
+
+        <div class="mb-3">
+          <label for="address" class="form-label">Endereço:</label>
+          <input 
+            type="text" 
+            name="address" 
+            id="address"
+            class="form-control"
+            maxlength="200"
+            placeholder="Digite seu endereço"
+            required
+          > 
+        </div>
+  
+        <div class="mb-3">
+          <label for="city" class="form-label">Cidade:</label>
+          <input 
+            type="text" 
+            name="city" 
+            id="city"
+            class="form-control"
+            maxlength="28"
+            placeholder="Digite o nome da sua cidade"
+            required
+          >
+        </div>
+  
+        <div class="mb-3">
+          <label for="state" class="form-label">Estado:</label>
+          <select name="state" id="state" class="form-select" required></select>
+        </div>
+  
+        <div class="mb-3">
+          <label for="home-type" class="form-label">Tipo de imóvel:</label>
+    
+          <input type="radio" name="home-type" id="house" value="house" required>
+          <span>Casa</span>
+    
+          <input type="radio" name="home-type" id="apartment" value="apartment" required>
+          <span>Apartamento</span>        
+        </div>
+      </fieldset>
+
+      <fieldset id="lastJobInfo">
+        <h2>Informações Último Trabalho</h2>
+
+        <div class="mb-3">
+          <label for="abstract" class="form-label">Resumo do currículo:</label>
+          <textarea 
+            name="abstract" 
+            id="abstract"
+            class="form-control" 
+            cols="30" 
+            rows="10"
+            maxlength="1000"
+            placeholder="Digite um resumo do seu currículo"
+            required></textarea>
+        </div>
+
+        <div class="mb-3">
+          <label for="role" class="form-label">Cargo:</label>
+          <input 
+            type="text" 
+            name="role" 
+            id="role"
+            class="form-control"
+            maxlength="40"
+            placeholder="Digite qual era o seu cargo"
+            required
+          >
+        </div>
+
+        <div class="mb-3">
+          <label for="roleInfo" class="form-label">Descrição do cargo:</label>
+          <input 
+            type="text" 
+            name="role-info" 
+            id="roleInfo"
+            class="form-control"
+            maxlength="500"
+            placeholder="Digite uma descrição do seu cargo anterior"
+            required
+          >
+        </div>
+
+        <div class="mb-3">
+          <label for="startDate" class="form-label">Data de início:</label>
+          <input type="date" name="start-date" id="startDate" class="form-control" required>
+        </div>
+      </fieldset>
+
+      <div id="buttons">
+        <button type="button" id="clearButton" class="btn btn-danger">Limpar</button>
+        <button type="submit" id="submitButton" class="btn btn-success">Enviar</button>
+      </div>
+    </form>
+    
+    <script src="/exercises/script.js"></script>
+  </body>
+
+</html>
