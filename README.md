@@ -48,5 +48,28 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 6.2: JavaScript Libraries and CSS Frameworks
 - [x] 6.3: CSS Flexbox - Part I
 - [x] 6.4: CSS Flexbox - Part II
-- [ ] 6.5: Responsive CSS - Mobile First
-- [ ] 6.6: Project - Trybewarts
+- [x] 6.5: Responsive CSS - Mobile First
+- [x] 6.6: Project - Trybewarts
+
+##### 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/07-introduction-to-javascript-es6-and-unit-tests)
+
+- [x] 7.1: JavaScript ES6 - let, const, arrow functions and template literals
+- [x] 7.2: JavaScript ES6 - throw, try/catch and Objects
+- [x] 7.3: Jest - First steps
+- [x] 7.4: Project - JavaScript Unit Tests
+
+##### 8: [JavaScript ES6: Higher Order Functions](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/08-javascript-es6-higher-order-functions)
+
+- [x] 8.1: JavaScript ES6 - Introduction to Higher Order Functions
+- [x] 8.2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every and sort
+- [ ] 8.3: JavaScript ES6 - Higher Order Functions - map and filter
+- [ ] 8.4: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8.5: JavaScript ES6 - spread operator, rest parameter, destructuring and more
+- [ ] 8.6: Project - Zoo functions
+
+##### 9: [JavaScript and Testing Asynchronous Code](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/09-javascript-and-testing-asynchronous-code)
+
+- [ ] 9.1: Asynchronous JavaScript and Callbacks
+- [ ] 9.2: Asynchronous JavaScript - Fetch API and async/await
+- [ ] 9.3: Jest - Testing Asynchronous Code
+- [ ] 9.4: Project - Shopping Cart
