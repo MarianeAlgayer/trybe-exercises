@@ -64,8 +64,8 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 8.2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every and sort
 - [x] 8.3: JavaScript ES6 - Higher Order Functions - map and filter
 - [x] 8.4: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.5: JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- [ ] 8.6: Project - Zoo functions
+- [x] 8.5: JavaScript ES6 - spread operator, rest parameter, destructuring and more
+- [x] 8.6: Project - Zoo functions
 
 ##### 9: [JavaScript and Testing Asynchronous Code](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/09-javascript-and-testing-asynchronous-code)
 
