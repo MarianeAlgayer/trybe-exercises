@@ -43,4 +43,36 @@ const showCoins = async () => {
   }
 }
 
+/* const setCoins = async () => {
+  const coins = await fetchCoins();
+
+  const coinsList = document.getElementById('coins-list');
+
+  coins
+    .filter((coin) => Number(coin.rank) <= 10)
+    .forEach((coin) => {
+      const newLi = document.createElement('li');
+
+      newLi.innerText = `${coin.name} (${coin.symbol}): ${coin.priceUsd}`;
+
+      coinsList.appendChild(newLi);
+    });
+} */
+
+/* const setCoins = async () => {
+  const coins = await fetchCoins();
+
+  const coinsList = document.getElementById('coins-list');
+
+  coins
+    .filter((_, index) => index < 10)
+    .forEach((coin) => {
+      const newLi = document.createElement('li');
+
+      newLi.innerText = `${coin.name} (${coin.symbol}): ${coin.priceUsd}`;
+
+      coinsList.appendChild(newLi);
+    });
+} */
+
 window.onload = () => showCoins();
