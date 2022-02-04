@@ -78,6 +78,6 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 ##### 10: [Introduction to React](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/10-introduction-to-react)
 
-- [ ] 10.1: 'Hello, world!' in React!
+- [x] 10.1: 'Hello, world!' in React!
 - [x] 10.2: React Components
-- [ ] 10.3: Project - Solar System
+- [x] 10.3: Project - Solar System
