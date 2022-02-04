@@ -81,3 +81,15 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 10.1: 'Hello, world!' in React!
 - [x] 10.2: React Components
 - [x] 10.3: Project - Solar System
+
+##### 11: [Stateful Components, Events and Forms in React](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/11-stateful-components-events-and-forms)
+
+- [ ] 11.1: Stateful components and events
+- [ ] 11.2: Forms in React
+- [ ] 11.3: Project - Tryunfo
+
+##### 12: [Component Lifecycle and React Router](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/12-component-lifecycle-and-react-router)
+
+- [ ] 12.1: Component Lifecycle
+- [ ] 12.2: React Router
+- [ ] 12.3: Project - TrybeTunes
