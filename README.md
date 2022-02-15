@@ -69,7 +69,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 ##### 9: [JavaScript and Testing Asynchronous Code](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/01-fundamentals/09-javascript-and-testing-asynchronous-code)
 
-- [ ] 9.1: Asynchronous JavaScript and Callbacks
+- [x] 9.1: Asynchronous JavaScript and Callbacks
 - [x] 9.2: Asynchronous JavaScript - Fetch API and async/await
 - [x] [9.3: Jest - Testing Asynchronous Code](https://github.com/MarianeAlgayer/9.3-content-async-test)
 - [x] 9.4: Project - Shopping Cart
