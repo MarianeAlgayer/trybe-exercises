@@ -90,7 +90,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 ##### 12: [Component Lifecycle and React Router](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/12-component-lifecycle-and-react-router)
 
-- [ ] 12.1: Component Lifecycle
+- [x] 12.1: Component Lifecycle
 - [ ] 12.2: React Router
 - [ ] 12.3: Project - TrybeTunes
 
