@@ -71,7 +71,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 - [x] 9.1: Asynchronous JavaScript and Callbacks
 - [x] 9.2: Asynchronous JavaScript - Fetch API and async/await
-- [x] [9.3: Jest - Testing Asynchronous Code](https://github.com/MarianeAlgayer/9.3-content-async-test)
+- [x] 9.3: Jest - Testing Asynchronous Code
 - [x] 9.4: Project - Shopping Cart
 
 ## Front-end Development :hourglass_flowing_sand:
@@ -91,8 +91,8 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 ##### 12: [Component Lifecycle and React Router](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/12-component-lifecycle-and-react-router)
 
 - [x] 12.1: Component Lifecycle
-- [ ] 12.2: React Router
-- [ ] 12.3: Project - TrybeTunes
+- [x] 12.2: React Router
+- [x] 12.3: Project - TrybeTunes
 
 ##### 13: Agile Methodologies
 
