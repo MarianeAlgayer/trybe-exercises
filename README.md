@@ -109,7 +109,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 ##### 15: [State Management in Redux](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/15-state-management-in-redux)
 
 - [x] 15.1: Introduction to Redux
-- [ ] 15.2: React Redux
+- [x] 15.2: React Redux
 - [ ] 15.3: React Redux - Asynchronous Actions
 - [ ] 15.4: React Redux Testing
 - [ ] 15.5: Project - Trybe Wallet
