@@ -102,7 +102,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 ##### 14: [React Testing Library](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/14-react-testing-library)
 
 - [x] 14.1: RTL - First Steps
-- [ ] 14.2: RTL - Mocks and Inputs
+- [x] 14.2: RTL - Mocks and Inputs
 - [ ] 14.3: RTL - React Router
 - [ ] 14.4: Project - React Testing
 
