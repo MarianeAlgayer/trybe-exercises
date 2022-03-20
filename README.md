@@ -110,6 +110,6 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 - [x] 15.1: Introduction to Redux
 - [x] 15.2: React Redux
-- [ ] 15.3: React Redux - Asynchronous Actions
+- [x] 15.3: React Redux - Asynchronous Actions
 - [ ] 15.4: React Redux Testing
 - [ ] 15.5: Project - Trybe Wallet
