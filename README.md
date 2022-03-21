@@ -125,6 +125,6 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [ ] 17.3: React Hooks - useEffect and Custom Hooks
 - [ ] 17.4: Project - StarWars Datatable with Context API and Hooks
 
-##### 18: Reacipes App
+##### 18: Recipes App
 
 - [ ] 18.1: Project - Recipes App
