@@ -86,7 +86,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 - [ ] 11.1: Stateful components and events
 - [ ] 11.2: Forms in React
-- [ ] 11.3: Project - Tryunfo
+- [x] 11.3: Project - Tryunfo
 
 ##### 12: [Component Lifecycle and React Router](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/12-component-lifecycle-and-react-router)
 
@@ -104,7 +104,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 14.1: RTL - First Steps
 - [x] 14.2: RTL - Mocks and Inputs
 - [ ] 14.3: RTL - React Router
-- [ ] 14.4: Project - React Testing
+- [x] 14.4: Project - React Testing
 
 ##### 15: [State Management in Redux](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/15-state-management-in-redux)
 
@@ -112,4 +112,19 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 15.2: React Redux
 - [x] 15.3: React Redux - Asynchronous Actions
 - [ ] 15.4: React Redux Testing
-- [ ] 15.5: Project - Trybe Wallet
+- [x] 15.5: Project - Trybe Wallet
+
+##### 16: Trivia Game
+
+- [x] 16.1: Project - Trivia Game
+
+##### 17: [Context API e React Hooks](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/17-context-api-and-react-hooks)
+
+- [ ] 17.1: React Context API
+- [ ] 17.2: React Hooks - useState and useContext
+- [ ] 17.3: React Hooks - useEffect and Custom Hooks
+- [ ] 17.4: Project - StarWars Datatable with Context API and Hooks
+
+##### 18: Reacipes App
+
+- [ ] 18.1: Project - Recipes App
