@@ -120,10 +120,10 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 ##### 17: [Context API e React Hooks](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/17-context-api-and-react-hooks)
 
-- [ ] 17.1: React Context API
-- [ ] 17.2: React Hooks - useState and useContext
-- [ ] 17.3: React Hooks - useEffect and Custom Hooks
-- [ ] 17.4: Project - StarWars Datatable with Context API and Hooks
+- [x] 17.1: React Context API
+- [x] 17.2: React Hooks - useState and useContext
+- [x] 17.3: React Hooks - useEffect and Custom Hooks
+- [x] 17.4: Project - StarWars Datatable with Context API and Hooks
 
 ##### 18: Recipes App
 
