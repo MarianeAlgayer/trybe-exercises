@@ -1,6 +1,5 @@
-import { createStore, combineReducers } from 'redux';
-import clickReducer from '../reducers';
-const rootReducer = combineReducers({ clickReducer });
+import { createStore } from 'redux';
+import rootReducer from '../reducers';
 
 const store = createStore(rootReducer);
 
