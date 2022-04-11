@@ -1,24 +1,16 @@
 import React from 'react';
-import { Provider } from 'react-redux';
-import { render, cleanup, screen } from '@testing-library/react';
-import { createStore, combineReducers } from 'redux';
-import clickReducer from '../reducers';
+import { cleanup, screen } from '@testing-library/react';
+import renderWithRedux from './helpers';
 import App from '../App';
-
-const renderWithRedux = (
-  component,
-  { initialState, store = createStore(combineReducers({ clickReducer }), initialState) } = {}
-) => {
-  return {
-    ...render(<Provider store={store}>{component}</Provider>),
-    store,
-  }
-}
 
 describe('testing clicks', () => {
   beforeEach(cleanup);
 
   test('the page should has a button and a text 0', () => {
+    // Outra maneira:
+    /* const { queryByText } = renderWithRedux(<App />);
+    const buttonAdicionar = queryByText('Clique aqui'); */
+
     renderWithRedux(<App />);
     const buttonAdicionar = screen.queryByText('Clique aqui');
 
