@@ -103,7 +103,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 - [x] 14.1: RTL - First Steps
 - [x] 14.2: RTL - Mocks and Inputs
-- [ ] 14.3: RTL - React Router
+- [x] 14.3: RTL - React Router
 - [x] 14.4: Project - React Testing
 
 ##### 15: [State Management in Redux](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/15-state-management-in-redux)
@@ -111,7 +111,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 15.1: Introduction to Redux
 - [x] 15.2: React Redux
 - [x] 15.3: React Redux - Asynchronous Actions
-- [ ] 15.4: React Redux Testing
+- [x] 15.4: React Redux Testing
 - [x] 15.5: Project - Trybe Wallet
 
 ##### 16: Trivia Game
@@ -127,4 +127,4 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 ##### 18: Recipes App
 
-- [ ] 18.1: Project - Recipes App
+- [x] 18.1: Project - Recipes App
