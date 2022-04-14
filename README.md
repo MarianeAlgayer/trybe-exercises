@@ -74,7 +74,7 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 - [x] 9.3: Jest - Testing Asynchronous Code
 - [x] 9.4: Project - Shopping Cart
 
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :white_check_mark:
 
 ##### 10: [Introduction to React](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/02-front-end/10-introduction-to-react)
 
@@ -128,3 +128,12 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 ##### 18: Recipes App
 
 - [x] 18.1: Project - Recipes App
+
+## Back-end Development :hourglass_flowing_sand:
+
+##### 19: [Docker](https://github.com/MarianeAlgayer/trybe-exercises/tree/main/03-back-end/19-docker)
+
+- [ ] 19.1: Docker - Containers
+- [ ] 19.2: Docker - Build and manage images
+- [ ] 19.3: Docker - Multi-container Docker applications with Docker Compose
+- [ ] 19.4: Project - Docker Todo-List
