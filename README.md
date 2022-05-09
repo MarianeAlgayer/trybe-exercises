@@ -135,5 +135,5 @@ This repository is dedicated to all projects developed by [Mariane Algayer](http
 
 - [x] 19.1: Docker - Containers
 - [x] 19.2: Docker - Build and manage images
-- [ ] 19.3: Docker - Multi-container Docker applications with Docker Compose
-- [ ] 19.4: Project - Docker Todo-List
+- [x] 19.3: Docker - Multi-container Docker applications with Docker Compose
+- [x] 19.4: Project - Docker Todo-List
