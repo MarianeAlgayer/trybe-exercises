@@ -1,6 +1,6 @@
 # Trybe
 
-This repository is dedicated to all projects developed by [Mariane Algayer](https://www.linkedin.com/in/mariane-albuquerque-algayer) while studying at [Trybe](https://www.betrybe.com/) :rocket:
+This repository is dedicated to my exercise solutions while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
 > Trybe is a school of the future, focused on the most sought after digital professions in the market, starting with software development. There are more than 1500 hours of training that covers fundamentals of web development, front-end, back-end, computer science, agile methodologies and soft skills.
 
